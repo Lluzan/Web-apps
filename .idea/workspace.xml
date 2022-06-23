@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'.">
-      <change beforePath="$PROJECT_DIR$/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/static/main/css/main.css" afterDir="false" />
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in 'main.css' and 'views.py'.">
+      <change afterPath="$PROJECT_DIR$/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/templates/products/detal-view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/templates/products/product_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +37,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/DJANGO/app_web/main/templates/main"
+    "last_opened_file_path": "D:/DJANGO/app_web"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DJANGO\app_web" />
       <recent name="D:\DJANGO\app_web\main\templates\main" />
       <recent name="D:\DJANGO\app_web\main" />
     </key>
@@ -69,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="2728000" />
+      <workItem from="1655988352585" duration="3072000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -106,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655992118061</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding code in 'main.css' and 'views.py'.">
+      <created>1655992345290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655992345290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +147,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
     <MESSAGE value="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'." />
+    <MESSAGE value="Adding code in 'main.css' and 'views.py'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code in 'main.css' and 'views.py'." />
   </component>
 </project>
