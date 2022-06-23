@@ -12,7 +12,6 @@
                     <h3>{{el.title}}</h3>
                     <p>{{el.anons}}</p>
                     <a href="{% url 'product-detail' el.id%}" class="btn btn-warning">Подробнее</a>
-
                 </div>
             {% endfor %}
         {% else %}
@@ -20,6 +19,5 @@
             Пожалуйста, уточните информацию у мастера!</p>
             <a href="{% url 'cont' %}" style="text-decoration: none"><button class="btn btn-warning">Уточнить у мастера</button></a>
         {% endif %}
-
     </div>
 {% endblock %}
