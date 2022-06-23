@@ -1,5 +1,5 @@
 {% extends 'main/layout.html' %}
-
+{% load static %}
 {% block title %}Услуги{% endblock %}
 
 {% block content %}
@@ -19,5 +19,6 @@
             Пожалуйста, уточните информацию у мастера!</p>
             <a href="{% url 'cont' %}" style="text-decoration: none"><button class="btn btn-warning">Уточнить у мастера</button></a>
         {% endif %}
+        <a><img src="{% static 'main/img/nog_2.jpg' %}" class="tera"></a>
     </div>
 {% endblock %}

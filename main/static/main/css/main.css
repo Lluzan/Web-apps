@@ -7,7 +7,7 @@ aside {
     background: #000000;
     width: 18%;
     padding: 2.5%;
-    height: 1300px;
+    height: 1425px;
     color: #000000;
 }
 
@@ -57,3 +57,50 @@ main .features {
     margin: 20px 34%;
     text-align: center;
 }
+
+.ret {
+    width: 20%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.ter {
+    width: 19%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.terr {
+    width: 20%;
+    float: left;
+    margin-left: 130px;
+    margin-top: 10%;
+}
+
+.tera {
+    width: 125%;
+    float: right;
+    margin-left: 0px;
+    margin-right: -120px;
+    margin-top: -1130px;
+}
+
+.back {
+    width: 125%;
+    float: right;
+    margin-left: 0px;
+    margin-right: -106px;
+    margin-top: -1130px;
+}
+
+
+.about {
+    width: 35%;
+    float: left;
+    margin-left: 32%;
+    margin-top: 5%;
+}
+
+

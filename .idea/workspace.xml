@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="db">
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="mini red.">
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/209509603_502907880927433_7271883506861963772_n-pic_32ratio_900x600-900x600-27966.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/geo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/nog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/nog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/ooo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/qqq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/img/retyu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/static/main/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/templates/products/product_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/product_home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +51,9 @@
       <recent name="D:\DJANGO\app_web\main\templates\main" />
       <recent name="D:\DJANGO\app_web\main" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DJANGO\app_web\main\static\main\img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="app_web" type="Python.DjangoServer" factoryName="Django server">
@@ -75,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="9361000" />
+      <workItem from="1655988352585" duration="14103000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -154,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655999915842</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mini red.">
+      <created>1656000664591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656000664591</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +203,7 @@
     <MESSAGE value="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'." />
     <MESSAGE value="Adding code." />
     <MESSAGE value="db" />
-    <option name="LAST_COMMIT_MESSAGE" value="db" />
+    <MESSAGE value="mini red." />
+    <option name="LAST_COMMIT_MESSAGE" value="mini red." />
   </component>
 </project>
