@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'.">
+      <change beforePath="$PROJECT_DIR$/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main/static/main/css/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="2428000" />
+      <workItem from="1655988352585" duration="2728000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655991793028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'.">
+      <created>1655992118061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655992118061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +128,7 @@
     <MESSAGE value="Create new app &quot;main&quot;" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
+    <MESSAGE value="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code in 'layout.html' and link buttons.&#10;Adding code in 'about.html'." />
   </component>
 </project>
