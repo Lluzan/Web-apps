@@ -15,7 +15,11 @@
 
                 </div>
             {% endfor %}
-
+        {% else %}
+            <p>На данный момент услуги отсутсвуют.
+            Пожалуйста, уточните информацию у мастера!</p>
+            <a href="{% url 'cont' %}" style="text-decoration: none"><button class="btn btn-warning">Уточнить у мастера</button></a>
+        {% endif %}
 
     </div>
 {% endblock %}

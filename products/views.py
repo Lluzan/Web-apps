@@ -8,4 +8,7 @@ def products_home(request):
     return render(request, 'products/product_home.html', {'usluga': usluga})
 
 
-
+class UslugaDetailView(DetailView):
+    model = Articles
+    template_name = 'products/detal-view.html'
+    context_object_name = 'article'
