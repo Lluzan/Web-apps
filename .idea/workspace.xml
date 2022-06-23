@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in files: 'detal-view.html' and 'product_home.html'.">
-      <change beforePath="$PROJECT_DIR$/products/templates/products/detal-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/detal-view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/product_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/product_home.html" afterDir="false" />
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/migrations/0001_initial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="3475000" />
+      <workItem from="1655988352585" duration="6981000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -129,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655992869163</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'.">
+      <created>1655993044946</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655993044946</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +167,7 @@
     <MESSAGE value="Adding code in 'main.css' and 'views.py'." />
     <MESSAGE value="Create new app 'products', new sample file 'product_home.html' and 'detal-view.html'.&#10;Adding new funk 'products_home' in 'views.py' and work started with bd." />
     <MESSAGE value="Adding code in files: 'detal-view.html' and 'product_home.html'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code in files: 'detal-view.html' and 'product_home.html'." />
+    <MESSAGE value="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'." />
   </component>
 </project>
