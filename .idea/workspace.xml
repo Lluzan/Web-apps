@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/static/main/img/logo_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_web/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/layout.html" afterDir="false" />
-    </list>
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +25,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/DJANGO/app_web/main"
+    "last_opened_file_path": "D:/DJANGO/app_web/main/templates/main"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DJANGO\app_web\main\templates\main" />
       <recent name="D:\DJANGO\app_web\main" />
     </key>
   </component>
@@ -73,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="2004000" />
+      <workItem from="1655988352585" duration="2428000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -96,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655989295515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img.">
+      <created>1655991793027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655991793028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +118,7 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Create new app &quot;main&quot;" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create shablon 'about.html' and 'contacts.html'.&#10;Adding code in 'index.html' and 'layout.html'.&#10;Create and adding code in 'main.css' + img." />
   </component>
 </project>

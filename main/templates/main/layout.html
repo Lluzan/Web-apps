@@ -15,3 +15,22 @@
 
 </head>
 <body>
+    <aside>
+        <a href="{% url 'home' %}" style="text-decoration: none"><img src="{% static 'main/img/logo_1.jpg' %}">
+
+        <span class="logo">LuzanCoding</span>
+
+        <ul>
+            <a href="{% url 'home' %}" style="text-decoration: none"><li><i class="fa fa-home" aria-hidden="true"></i> Главная</li></a>
+            <a href="{% url 'product_home' %}" style="text-decoration: none"><li><i class="fa fa-shopping-bag" aria-hidden="true"></i> Услуги</li></a>
+            <a href="{% url 'cont' %}" style="text-decoration: none"><li><i class="fa fa-phone" aria-hidden="true"></i> Контакты</li></a>
+            <a href="{% url 'about' %}" style="text-decoration: none"><li><i class="fa fa-info-circle" aria-hidden="true"></i> Про нас</li></a>
+        </ul>
+    </aside>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+
+</body>
+</html>
