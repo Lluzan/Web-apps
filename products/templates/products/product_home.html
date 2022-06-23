@@ -1,0 +1,21 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}Услуги{% endblock %}
+
+{% block content %}
+    <div class="features">
+
+        <h1>Каталог услуг</h1>
+        {% if usluga %}
+            {% for el in usluga%}
+                <div class="alert alert-warning">
+                    <h3>{{el.title}}</h3>
+                    <p>{{el.anons}}</p>
+                    <a href="{% url 'product-detail' el.id%}" class="btn btn-warning">Подробнее</a>
+
+                </div>
+            {% endfor %}
+
+
+    </div>
+{% endblock %}
