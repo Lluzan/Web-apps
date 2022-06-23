@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'.">
+    <list default="true" id="d227edbf-72f1-4766-8768-b1e4db0f2b8e" name="Changes" comment="Adding code.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_web/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655988339459</updated>
-      <workItem from="1655988352585" duration="6981000" />
+      <workItem from="1655988352585" duration="7930000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1655988490374</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655993044946</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding code.">
+      <created>1655997617217</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655997617217</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +173,7 @@
     <MESSAGE value="Create new app 'products', new sample file 'product_home.html' and 'detal-view.html'.&#10;Adding new funk 'products_home' in 'views.py' and work started with bd." />
     <MESSAGE value="Adding code in files: 'detal-view.html' and 'product_home.html'." />
     <MESSAGE value="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code in files: 'detal-view.html' and 'product_home.html'.&#10;Adding class 'UslugaDetailView' in 'views.py'." />
+    <MESSAGE value="Adding code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code." />
   </component>
 </project>
